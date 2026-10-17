@@ -1,0 +1,10 @@
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\bin\Release\netstandard2.1\BossResetOnDeath.deps.json
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\bin\Release\netstandard2.1\BossResetOnDeath.dll
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\bin\Release\netstandard2.1\BossResetOnDeath.pdb
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.1\BossResetOnDeath.csproj.AssemblyReference.cache
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.1\BossResetOnDeath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.1\BossResetOnDeath.AssemblyInfoInputs.cache
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.1\BossResetOnDeath.AssemblyInfo.cs
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.1\BossResetOnDeath.csproj.CoreCompileInputs.cache
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.1\BossResetOnDeath.dll
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.1\BossResetOnDeath.pdb

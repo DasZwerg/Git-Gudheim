@@ -1,0 +1,5 @@
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.0\BossResetOnDeath.csproj.AssemblyReference.cache
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.0\BossResetOnDeath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.0\BossResetOnDeath.AssemblyInfoInputs.cache
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.0\BossResetOnDeath.AssemblyInfo.cs
+C:\Users\jerem\.codeium\windsurf\windsurf\workflows\github\Valheim Mods\BossResetOnDeath\obj\Release\netstandard2.0\BossResetOnDeath.csproj.CoreCompileInputs.cache
